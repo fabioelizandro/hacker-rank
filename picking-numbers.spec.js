@@ -10,7 +10,7 @@ function pickingNumbers(listOfNumbers) {
   return biggest
 }
 
-describe('Forming Magic Square', () => {
+describe('Picking Numbers', () => {
   it('sample one', () => {
     const result = pickingNumbers([
       1,1,2,2,4,4,5,5,5
